@@ -24,31 +24,31 @@
             android:id="@+id/radio1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Juego 1" />
+            android:text="Angry Birds" />
 
         <RadioButton
             android:id="@+id/radio2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Juego 2" />
+            android:text="Dragon Fly" />
 
         <RadioButton
             android:id="@+id/radio3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Juego 3" />
+            android:text="Hill Climbing Racing" />
 
         <RadioButton
             android:id="@+id/radio4"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Juego 4" />
+            android:text="Pocket soccer" />
 
         <RadioButton
             android:id="@+id/radio5"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Juego 5" />
+            android:text="Radiant defense" />
     </RadioGroup>
 
     <SeekBar
