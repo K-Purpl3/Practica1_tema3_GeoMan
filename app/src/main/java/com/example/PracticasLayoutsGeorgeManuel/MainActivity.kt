@@ -26,14 +26,14 @@ class MainActivity : AppCompatActivity() {
         }
 
         //boton PREFERENCES abre PreferencesActivity
-        val btnPreferences = findViewById<Button>(R.id.button1)
+        val btnPreferences = findViewById<Button>(R.id.button3)
         btnPreferences.setOnClickListener {
             val i = Intent(this, PreferencesActivity::class.java)
             startActivity(i)
         }
 
         //boton ABOUT abre ChipsBottomActivity
-        val btnAbout = findViewById<Button>(R.id.button3)
+        val btnAbout = findViewById<Button>(R.id.button4)
         btnAbout.setOnClickListener {
             val i = Intent(this, ChipsBottomActivity::class.java)
             startActivity(i)
