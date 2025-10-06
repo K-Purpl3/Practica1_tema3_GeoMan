@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practica2_1_George_Manuel</string>
+    <string name="title_activity_new_player.kt">NewPlayer.kt</string>
+    <string name="action_add">add</string>
+    <string name="action_buscar">search</string>
+    <string name="action_settings">settings</string>
+</resources>
